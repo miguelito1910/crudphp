@@ -1,8 +1,0 @@
-<?php
-class Medico {
-    private $id;
-    private $nome;
-    private $crm;
-    private $esp;
-    private $telefone;
-}

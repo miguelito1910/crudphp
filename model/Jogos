@@ -1,0 +1,10 @@
+<?php
+class Jogos {
+    private $id;
+    private $nome;
+    private $plataforma;
+    private $anoLancamento;
+    private $review;
+
+    
+}
